@@ -1,0 +1,32 @@
+nav {
+  position: relative;
+  width: 100%;
+  background: #99a799;
+  height: 8vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  list-style: none;
+}
+a {
+  padding: 18px 58px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 0 24px;
+  text-decoration: none;
+  color: #fff;
+  transition: 0.5s;
+}
+a:hover {
+  background: #7f8a7f;
+}
+
+h1 {
+  text-align: center;
+}
